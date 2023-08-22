@@ -1,3 +1,4 @@
+![Captura de tela 2023-08-22 173206](https://github.com/ArthurClaro/SQL-EXCEL/assets/124170421/d0ed084f-ac47-4d0b-91aa-60aa24e8ef65)
 # Integração SQL-EXCEL
 
 ## Relatório de resultados - ADVENTURE WORKS (Banco de Dados - Microsoft)
